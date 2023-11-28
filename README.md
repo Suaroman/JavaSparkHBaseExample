@@ -117,7 +117,7 @@ This section guides you through the process of downloading, compiling, and execu
 
 ### Prerequisites
 
-- **Maven**: Ensure Maven is installed on your system. You can check this by running:
+- **Maven**: Verify if Maven is installed on your system. You can check this by running:
   ```shell
   mvn -version
   ```
